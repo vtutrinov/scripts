@@ -1,0 +1,1 @@
+echo "Dangerous software installed :)\n"
